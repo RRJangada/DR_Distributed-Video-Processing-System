@@ -28,7 +28,7 @@ Open two separate terminals and execute the following commands in each:
 4.	Environment Configuration:
 Ensure there exists a *.env* file containing the username, password for the PostgreSQL database, and the path to the shared folder.
 
-Docker Containerization:
+**Docker Containerization:**
 
-•	For Docker container creation, refer to the *dockerfiles* folder located inside the *Face_Detection_System* directory.
+1.	For Docker container creation, refer to the *dockerfiles* folder located inside the *Face_Detection_System* directory.
 ______________
